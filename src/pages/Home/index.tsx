@@ -10,6 +10,7 @@ const HomePage: React.FC = () => {
     <PageContainer ghost>
       <div className={styles.container}>
         <Guide name={trim(name)} />
+        <div>这是prod环境</div>
       </div>
     </PageContainer>
   );
