@@ -10,7 +10,7 @@ const HomePage: React.FC = () => {
     <PageContainer ghost>
       <div className={styles.container}>
         <Guide name={trim(name)} />
-        <div>这是prod环境23333333333333333333333333333333333</div>
+        <div>这是prod环境4444444444</div>
       </div>
     </PageContainer>
   );
