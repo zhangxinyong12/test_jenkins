@@ -10,13 +10,7 @@ const HomePage: React.FC = () => {
     <PageContainer ghost>
       <div className={styles.container}>
         <Guide name={trim(name)} />
-        <div>这是prod环境1.11111111111</div>
-        <div>这是prod环境1.11111111111</div>
-        <div>这是prod环境1.11111111111</div>
-        <div>这是prod环境1.11111111111</div>
-        <div>这是prod环境1.11111111111</div>
-        <div>这是prod环境1.11111111111</div>
-        <div>这是prod环境1.11111111111</div>
+        <div>这是prod环境2222222222222222</div>
       </div>
     </PageContainer>
   );
